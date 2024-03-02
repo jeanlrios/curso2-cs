@@ -12,3 +12,17 @@ C:\Users\Jean.rios\Documents\Cursos Alura\Curso 2 - C#\Desafios\PrimeiroDesafio\
 C:\Users\Jean.rios\Documents\Cursos Alura\Curso 2 - C#\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.pdb
 C:\Users\Jean.rios\Documents\Cursos Alura\Curso 2 - C#\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.genruntimeconfig.cache
 C:\Users\Jean.rios\Documents\Cursos Alura\Curso 2 - C#\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\ref\PrimeiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.exe
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.deps.json
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.runtimeconfig.json
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\bin\Debug\net8.0\PrimeiroDesafio.pdb
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.AssemblyInfoInputs.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.AssemblyInfo.cs
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\refint\PrimeiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.pdb
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\PrimeiroDesafio.genruntimeconfig.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\PrimeiroDesafio\PrimeiroDesafio\obj\Debug\net8.0\ref\PrimeiroDesafio.dll

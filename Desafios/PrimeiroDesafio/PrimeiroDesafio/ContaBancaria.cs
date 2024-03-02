@@ -12,9 +12,7 @@ class ContaBancaria
     public void ExibirDados()
     {
         Console.WriteLine($"Bem vindo! {TitularConta}");
-        Console.WriteLine($"Seu saldo é de R${SaldoConta}");
+        Console.WriteLine($"Seu saldo é de R${SaldoConta}\n");
     }
 }
 
-// 4. Desenvolver uma classe que modele um carro, e que
-// contenha os métodos acelerar, frear e buzinar

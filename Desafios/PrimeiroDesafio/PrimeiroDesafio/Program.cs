@@ -14,3 +14,20 @@ Conta1.ExibirDados();
 
 // 4. Desenvolver uma classe que modele um carro, e que
 // contenha os métodos acelerar, frear e buzinar
+Carro Carro1 = new Carro();
+Carro1.ModeloCarro = "Sandero";
+Carro1.AnoCarro = 2015;
+Carro1.CorCarro = "Vermelho";
+Carro1.BuzinarCarro();
+
+Carro Carro2 = new Carro();
+Carro2.ModeloCarro = "Siena";
+Carro2.AnoCarro = 2022;
+Carro2.CorCarro = "Preto";
+Carro2.AcelerarCarro();
+
+Carro Carro3 = new Carro();
+Carro3.ModeloCarro = "Tucson";
+Carro3.AnoCarro = 2018;
+Carro3.CorCarro = "Prata";
+Carro3.FrearCarro();
