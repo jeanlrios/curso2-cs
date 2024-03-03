@@ -1,15 +1,15 @@
-﻿Musica Musica1 = new Musica();
-Musica1.Nome = "Roxane";
-Musica1.Artista = "The Police";
-Musica1.Duracao = 273;
-Musica1.Disponivel = true;
+﻿Album albumQueen = new Album();
+albumQueen.Nome = "A Night at the Opera";
 
+Musica musica1 = new Musica();
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
 
-Musica Musica2 = new Musica();
-Musica2.Nome = "Vertigo";
-Musica2.Artista = "U2";
-Musica2.Duracao = 367;
-Musica2.Disponivel = false;
+Musica musica2 = new Musica();
+musica2.Nome = "Bohemian Rhapsody";
+musica2.Duracao = 354;
 
-Musica1.ExibirFichaTecnica();
-Musica2.ExibirFichaTecnica();
+albumQueen.AdicionarMusica(musica1);
+albumQueen.AdicionarMusica(musica2);
+
+albumQueen.ExibirAlbum();
