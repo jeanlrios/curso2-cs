@@ -1,0 +1,14 @@
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.exe
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.deps.json
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.runtimeconfig.json
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\bin\Debug\net8.0\TerceiroDesafio.pdb
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.AssemblyInfoInputs.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.AssemblyInfo.cs
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\refint\TerceiroDesafio.dll
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.pdb
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\TerceiroDesafio.genruntimeconfig.cache
+C:\Users\jeanc\OneDrive\Documents\CURSOS\Alura\curso2-cs-main\Desafios\TerceiroDesafio\TerceiroDesafio\obj\Debug\net8.0\ref\TerceiroDesafio.dll
