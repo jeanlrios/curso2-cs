@@ -4,6 +4,5 @@
 // podem estar associados a uma mesa.
 class Pedidos
 {
-    public List<Cardapio> pratosCardapio = new List<Cardapio>();
-    public double PrecoTotal { get; set; }
+    public List<Cardapio> pratosCardapio = new List<Cardapio>();   
 }

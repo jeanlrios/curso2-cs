@@ -8,5 +8,8 @@ class ProdutosRestaurante
     public double PrecoPrato { get; set; }
     public string NomeBebida { get; set; }
     public double PrecoBebida { get; set; }
-
+    public string PratosCardapio =>
+        $"Prato: {NomePrato}\n Preco: {PrecoPrato}";
+    public string BebidasCardapio =>
+        $"Bebida: {NomeBebida}\n Preco: {PrecoBebida}";
 }

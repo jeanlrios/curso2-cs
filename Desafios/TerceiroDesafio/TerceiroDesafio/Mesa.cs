@@ -5,5 +5,6 @@
 class Mesas
 {
     public int NumeroMesa {  get; set; }
-    public List<Pedidos> pedidosRealizado { get; set; } = new List<Pedidos>();
+    public bool DisponivelMesa { get; set; }
+    
 }

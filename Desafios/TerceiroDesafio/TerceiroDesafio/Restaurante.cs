@@ -4,7 +4,5 @@
 // podem estar associados a uma mesa.
 class Restaurante
 {
-    public List<Mesas> mesas { get; set; } = new List<Mesas>();
-    public Cardapio Cardapio { get; set; } = new Cardapio();
-
+   
 }

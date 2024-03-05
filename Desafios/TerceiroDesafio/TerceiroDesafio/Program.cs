@@ -23,6 +23,12 @@ void OpcoesMenu()
             break;
         case 4: Exercicio4();
             break;
+        default:
+            Console.Clear();
+            Console.WriteLine("Opção invalida! Selecione de 1 a 4\n");
+            Thread.Sleep(2000);
+            OpcoesMenu();
+            break;
     }
 
 }
@@ -140,35 +146,90 @@ void Exercicio4()
     // Mesa, Pedido e Cardapio. A classe Restaurante deve ter mesas que podem
     // ser reservadas e um cardápio com itens que podem ser pedidos. Os pedidos
     // podem estar associados a uma mesa.
-    ProdutosRestaurante prato1 = new ProdutosRestaurante();
-    prato1.NomePrato = "Strogonoff de Carne";
-    prato1.PrecoPrato = 23.90;
-    ProdutosRestaurante prato2 = new ProdutosRestaurante();
-    prato2.NomePrato = "Lasanha de Frango";
-    prato2.PrecoPrato = 25.90;
-    ProdutosRestaurante prato3 = new ProdutosRestaurante();
-    prato3.NomePrato = "Omelete";
-    prato3.PrecoPrato = 19.90;
+    Console.Clear();
+    Console.WriteLine("Exercicio 4");
+    OpcoesRestaurante();
+    void OpcoesRestaurante()
+    {
+        Console.WriteLine("Digite 1 para ver o cardapio do restaurante");
+        Console.Write("Digite a sua opção: ");
+        string OpcaoEscolhida = Console.ReadLine();
+        int OpcaoEscolhidaNumerica = int.Parse(OpcaoEscolhida);
+        switch(OpcaoEscolhidaNumerica)
+        {
+            case 1: ExibirCardapio();
+                break;
+            case 2: ExibirMesas();
+                break;
+            default:
+                Console.Clear();
+                Console.WriteLine("Opção invalida!");
+                Thread.Sleep(1000);
+                OpcoesRestaurante();
+                break;
 
-    ProdutosRestaurante bebida1 = new ProdutosRestaurante();
-    bebida1.NomeBebida = "Coca-cola";
-    bebida1.PrecoBebida = 9.90;
-    ProdutosRestaurante bebida2 = new ProdutosRestaurante();
-    bebida2.NomeBebida = "Fanta Laranja";
-    bebida2.PrecoBebida = 8.80;
-    ProdutosRestaurante bebida3 = new ProdutosRestaurante();
-    bebida3.NomeBebida = "Sprite";
-    bebida3.PrecoBebida = 7.80;
+        }
 
-    Mesas mesa1 = new Mesas();
-    mesa1.NumeroMesa = 01;
+        void ExibirCardapio()
+        {
+            ProdutosRestaurante prato1 = new ProdutosRestaurante();
+            prato1.NomePrato = "Strogonoff de Carne";
+            prato1.PrecoPrato = 23.90;
+            ProdutosRestaurante prato2 = new ProdutosRestaurante();
+            prato2.NomePrato = "Lasanha de Frango";
+            prato2.PrecoPrato = 25.90;
+            ProdutosRestaurante prato3 = new ProdutosRestaurante();
+            prato3.NomePrato = "Omelete";
+            prato3.PrecoPrato = 19.90;
 
-    Mesas mesa2 = new Mesas();
-    mesa2.NumeroMesa = 02;
+            ProdutosRestaurante bebida1 = new ProdutosRestaurante();
+            bebida1.NomeBebida = "Coca-cola";
+            bebida1.PrecoBebida = 9.90;
+            ProdutosRestaurante bebida2 = new ProdutosRestaurante();
+            bebida2.NomeBebida = "Fanta Laranja";
+            bebida2.PrecoBebida = 8.80;
+            ProdutosRestaurante bebida3 = new ProdutosRestaurante();
+            bebida3.NomeBebida = "Sprite";
+            bebida3.PrecoBebida = 7.80;
 
-    Mesas mesa3 = new Mesas();
-    mesa3.NumeroMesa = 03;
-        
+            Cardapio cardapio = new Cardapio();
+            cardapio.AdicionarPratos(prato1);
+            cardapio.AdicionarPratos(prato2);
+            cardapio.AdicionarPratos(prato3);
+            cardapio.AdicionarBebidas(bebida1);
+            cardapio.AdicionarBebidas(bebida2);
+            cardapio.AdicionarBebidas(bebida3);
+            cardapio.ExibirPratos();
+            cardapio.ExibirBebidas();
+
+            Console.WriteLine("\nPara voltar pro Menu pressione qualquer tecla");
+            Console.ReadKey();
+            Console.Clear();
+            OpcoesRestaurante();
+        }
+
+        void ExibirMesas()
+        {
+            Mesas mesa1 = new Mesas();
+            mesa1.NumeroMesa = 01;
+            mesa1.DisponivelMesa = true;
+            
+            Mesas mesa2 = new Mesas();
+            mesa2.NumeroMesa = 02;
+            mesa2.DisponivelMesa = false;
+
+            Mesas mesa3 = new Mesas();
+            mesa3.NumeroMesa = 03;
+            mesa3.DisponivelMesa = false;
+        }
+
+
+        Console.WriteLine("\nPara voltar pro Menu pressione qualquer tecla");
+        Console.ReadKey();
+        Console.Clear();
+        OpcoesMenu();
+    }
+    
 }
 
 OpcoesMenu();
